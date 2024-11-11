@@ -1,0 +1,5 @@
+C:/Users/ktroi/Desktop/GameDevelopment/bunnyCarrot/bunny-carrot-android/.utmp/RelWithDebInfo/5r6e256u/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ktroi/Desktop/GameDevelopment/bunnyCarrot/bunny-carrot-android/.utmp/RelWithDebInfo/5r6e256u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/ktroi/Desktop/GameDevelopment/bunnyCarrot/bunny-carrot-android/.utmp/RelWithDebInfo/5r6e256u/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/ktroi/Desktop/GameDevelopment/bunnyCarrot/bunny-carrot-android/.utmp/RelWithDebInfo/5r6e256u/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/ktroi/Desktop/GameDevelopment/bunnyCarrot/bunny-carrot-android/.utmp/RelWithDebInfo/5r6e256u/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
