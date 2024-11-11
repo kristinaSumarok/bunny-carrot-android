@@ -637,7 +637,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &1223005648
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -651,7 +651,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   joystick: {fileID: 1138919941}
-  moveSpeed: 0.5
+  moveSpeed: 0.1
 --- !u!61 &1223005649
 BoxCollider2D:
   m_ObjectHideFlags: 0
